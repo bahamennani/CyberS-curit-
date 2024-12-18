@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConvertPng</string>
+    <string name="menu">Menu</string>
+    <string name="convert_png">Convert Png</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="convert_to_png">Convert to PNG</string>
+    <string name="save_image">Save Image</string>
+    <string name="todo">TODO</string>
+    <string name="open_folder">Open Folder</string>
+</resources>
